@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oxxyopia
-- 👀 I’m interested in many things including but not limited to: Programming, Tuning ECUs, Mechanics, and now I'm starting to feel an old nostalgia about motorbikes.
+- 👀 I’m interested in many things including but not limited to: Programming, Tuning ECUs, Mechanics.
 - 🌱 I’m currently learning AI deep learning, Assmbly.
 - 💞️ I’m looking to collaborate on noble causes :-)
 - 📫 How to reach me S12N@pm.me
